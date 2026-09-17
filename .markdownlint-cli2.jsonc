@@ -1,0 +1,8 @@
+{
+  "config": {
+    "default": true,
+    // Prose docs often exceed 80 chars per line; wrapping is not enforced here.
+    "MD013": false
+  },
+  "ignores": ["node_modules"]
+}
